@@ -1,0 +1,7 @@
+.*.swp
+.*.swo
+.stack-work
+.hakyll-work
+.history
+build
+test-project-dir/
